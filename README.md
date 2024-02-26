@@ -1,2 +1,2 @@
-# Daily DSA Problem Log
-This README document a log of daily data structure and algorithm problems studied by me using Python.
+# DSA Problem 
+This README document of daily data structure and algorithm problems studied by me using Python.
